@@ -16,7 +16,7 @@ if it is the same string (same hash value) then update the value to the array dp
 Complexity
 
 - Time: O(N^2) N is the length of string
-- Memory: O(N*maximum primitive substring), O(N^2) in general case
+- Memory: O(N*maximum Length of primitive substring), O(N^2) in general case
 
 Output 
 
