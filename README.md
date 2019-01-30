@@ -20,4 +20,4 @@ Complexity
 
 Output 
 
-- My output is all repeat substring which the primitive substring is between 3 to 10 and number of repeat is more than 1
+- My output is all repeat substring which the primitive substring is between 3 to 10 and number of repeat is more than 1. The output file is the txt file output1.txt output2.txt output3.txt
